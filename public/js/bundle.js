@@ -9510,7 +9510,7 @@ object-assign
       }
 
       var XPress = {};
-      var baseUrl = "https://x-press-publishing-rijalghodi.herokuapp.com/";
+      var baseUrl = "http://localhost:4000/api";
 
       XPress.getSeries = function () {
         var url = baseUrl + "/series";
