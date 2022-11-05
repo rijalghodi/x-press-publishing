@@ -9,7 +9,8 @@ const cors = require("cors");
 const apiRouter = require("./api/api");
 
 // PORT
-const PORT = process.env.PORT || 4000;
+const PORT =
+  process.env.PORT || "https://x-press-publishing-rijalghodi.herokuapp.com/";
 
 // Logging Middleware
 app.use(morgan("dev"));
