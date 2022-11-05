@@ -1,4 +1,4 @@
-# Shonen Jump Publishing
+# XPress Publishing
 
 ## Project Overview
 
